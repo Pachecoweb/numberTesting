@@ -1,0 +1,25 @@
+{
+    "name": "numbertest",
+    "version": "1.0.0",
+    "description": "Numeros Testing 2022",
+    "main": "numberTest.js",
+    "scripts": {
+        "numberTesting": "node numberTest.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Pachecoweb/numberTesting.git"
+    },
+    "keywords": [
+        "numbers",
+        "JS",
+        "Testing"
+    ],
+    "author": "Diego Pacheco Baca",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Pachecoweb/numberTesting/issues"
+    },
+    "homepage": "https://github.com/Pachecoweb/numberTesting#readme"
+}
